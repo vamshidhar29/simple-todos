@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.background {
+  background-color: #ffc2a0;
+  height: 100vh;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 15px;
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.head {
+  color: #ff8542;
+  font-size: 30px;
+}
+
+.ul-bg {
+  list-style-type: none;
+}
